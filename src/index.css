@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -16,6 +17,7 @@ body {
   background: #000;
   border-color: #3b3b3b;
   user-select: none;
+  font-family: "Nunito", sans-serif;
 }
 
 canvas {
